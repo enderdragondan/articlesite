@@ -9,7 +9,7 @@ Keep in mind your own databases may have different names to mine so double check
 1. Download the repo as a zip.
 2. Extract files to your www (MAMP root) folder.
 3. Rename folder to "articlesite".
-4. Make sure your file paths are correct. It should be <MAMP Root Folder>/articlesite/<PHP Files>.
+4. Make sure your file paths are correct. It should be (MAMP Root Folder)/articlesite/(PHP Files).
 5. Open "localhost/articlesite/" in your browser.
 
 **Reminder:** Your databases may have a different name or structure compared to mine. If something breaks then double check the code to make sure these are correct for your database.
