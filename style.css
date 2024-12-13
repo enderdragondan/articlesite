@@ -1,0 +1,55 @@
+body {
+  font-family: Comic Sans MS;
+  margin: 5px;
+  padding: 5px;
+}
+
+label {
+    font-size: 18px;
+}
+
+input {
+  font-family: Comic Sans MS;
+  font-size: 16px;
+  color: black;
+}
+
+textarea {
+  font-family: Comic Sans MS;
+  font-size: 16px;
+  color: black;
+  resize: none;
+}
+
+button {
+  font-family: Comic Sans MS;
+  font-size: 16px;
+  color: lightgrey;
+  background-color: blue;
+}
+button:hover {
+  background-color: darkblue;
+}
+
+.greenbutton {
+  background-color: green;
+}
+.greenbutton:hover {
+  background-color: darkgreen;
+}
+
+.redbutton {
+  background-color: red;
+}
+.redbutton:hover {
+  background-color: darkred;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  color: darkblue;
+  text-decoration: underline;
+}
